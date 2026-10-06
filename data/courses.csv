@@ -1,0 +1,13 @@
+course_id,course_name,faculty_id,section_id,classes_per_week,room_type
+C001,Data strtctures ,F001,S001,3,CLASS
+C002,Database Management Systems,F002,S001,3,CLASS
+C003,Operating Systems,F003,S001,3,CLASS
+C004,Computer Networks,F004,S001,3,CLASS
+C005,Software Engineering,F005,S001,2,CLASS
+C006,Data Structures,F001,S002,3,CLASS
+C007,Database Management Systems,F002,S002,3,CLASS
+C008,Operating Systems,F003,S002,3,CLASS
+C009,Computer Networks,F004,S002,3,CLASS
+C010,Software Engineering,F005,S002,2,CLASS
+C011,Artificial Intelligence,F006,S001,2,LAB
+C012,Artificial Intelligence,F006,S002,2,LAB

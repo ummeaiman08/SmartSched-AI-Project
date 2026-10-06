@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+plotly
+langchain
+langchain-community
+langchain-ollama
